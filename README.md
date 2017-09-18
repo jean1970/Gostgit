@@ -1,0 +1,2 @@
+# Gostgit
+my first project 
